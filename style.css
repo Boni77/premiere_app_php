@@ -1,0 +1,33 @@
+td{
+    padding : 30px;
+    border: 1px solid black;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+th{
+    text-align: center;
+}
+
+.liste{
+    display: flex;
+}
+
+.card{
+    width: 200px;
+    margin: 20px;
+}
+
+.card-header{
+    text-align: center;
+}
+
+.card-text{
+    font-style: italic;
+}
+
+.card-footer{
+    color: green;
+}
